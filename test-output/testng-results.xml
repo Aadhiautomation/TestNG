@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-26T12:01:11 GMT-08:00" name="Suite" finished-at="2021-12-26T12:01:11 GMT-08:00" duration-ms="74">
+    <groups>
+    </groups>
+    <test started-at="2021-12-26T12:01:11 GMT-08:00" name="Test" finished-at="2021-12-26T12:01:11 GMT-08:00" duration-ms="74">
+      <class name="TestNGDemoOne.NewTest">
+        <test-method signature="test1()[pri:0, instance:TestNGDemoOne.NewTest@524d6d96]" started-at="2021-12-26T12:01:11 GMT-08:00" name="test1" finished-at="2021-12-26T12:01:11 GMT-08:00" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:TestNGDemoOne.NewTest@524d6d96]" started-at="2021-12-26T12:01:11 GMT-08:00" name="test2" finished-at="2021-12-26T12:01:11 GMT-08:00" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- TestNGDemoOne.NewTest -->
+      <class name="TestNGDemoOne.NewTest2">
+        <test-method signature="test3()[pri:0, instance:TestNGDemoOne.NewTest2@770d3326]" started-at="2021-12-26T12:01:11 GMT-08:00" name="test3" finished-at="2021-12-26T12:01:11 GMT-08:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- TestNGDemoOne.NewTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
